@@ -1,0 +1,12 @@
+2023-10-27T16:58:39+00:00 DEBUG ==============================================>
+2023-10-27T16:58:39+00:00 DEBUG https://skydropx-woocommerce-api.conexa.ai/api/v1/gateway/oauth
+2023-10-27T16:58:39+00:00 DEBUG Array
+(
+    [Content-Type] => application/json
+)
+
+2023-10-27T16:58:39+00:00 DEBUG Request > 
+2023-10-27T16:58:39+00:00 DEBUG {"shopId":"httplocalhostpandasmoke","fullName":"http:\/\/localhost\/panda_smoke"}
+2023-10-27T16:58:39+00:00 DEBUG Response Code > 200
+2023-10-27T16:58:39+00:00 DEBUG Response > 
+2023-10-27T16:58:39+00:00 DEBUG {"success":true,"userOnboard":false,"token":"xMl3Jk4yqMeYPSarOgz3SoOIbi0jxZXyh9YqGgYbRXOyiUVoMl32"}
